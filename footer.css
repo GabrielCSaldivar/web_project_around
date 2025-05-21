@@ -1,0 +1,12 @@
+.footer__copyright {
+  padding: 67px 0 60px;
+  margin: 0;
+  color: #545454;
+}
+
+@media screen and (max-width: 880px) {
+  .footer__copyright {
+      padding: 50px 6% 36px;
+      font-size: 14px;
+  }
+}
